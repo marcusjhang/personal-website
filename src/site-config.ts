@@ -1,8 +1,8 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
+  author: 'Marcus Ang',
+  title: 'My Personal Website',
+  subtitle: 'About Me',
+  description: 'More about me',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
@@ -52,10 +52,6 @@ export const siteConfig = {
         href: '/blog/notes',
       },
       {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
-      {
         text: 'Projects',
         href: '/projects',
       },
@@ -70,10 +66,6 @@ export const siteConfig = {
       {
         text: 'Notes',
         href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
       },
     ],
   },
