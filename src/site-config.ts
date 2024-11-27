@@ -7,34 +7,19 @@ export const siteConfig = {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'marcusajh0802@gmail.com',
   socialLinks: [
     {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/marcusjhang',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
     {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
-    },
-    {
       text: 'Linkedin',
-      href: '',
+      href: 'https://www.linkedin.com/in/marcus-ang-jh/',
       icon: 'i-simple-icons-linkedin',
-    },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
-    },
-    {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
+      header: 'i-ri-linkedin-line',
     },
   ],
   header: {

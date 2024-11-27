@@ -58,6 +58,12 @@ export default defineConfig({
     'i-simple-icons-zhihu',
     'i-simple-icons-sinaweibo',
     'i-ri-github-line',
+    'i-ri-linkedin-line',
     'i-ri-twitter-x-line',
+    'i-simple-icons-cplusplus',
+    'i-simple-icons-rust',
+    'i-simple-icons-nextdotjs',
+    'i-simple-icons-react',
+    'i-simple-icons-django',
   ],
 })
