@@ -33,8 +33,12 @@ export const siteConfig = {
         href: '/blog',
       },
       {
-        text: 'Notes',
-        href: '/blog/notes',
+        text: 'Books',
+        href: '/blog/books',
+      },
+      {
+        text: 'Work',
+        href: '/blog/work',
       },
       {
         text: 'Projects',
@@ -49,8 +53,12 @@ export const siteConfig = {
         href: '/blog',
       },
       {
-        text: 'Notes',
-        href: '/blog/notes',
+        text: 'Books',
+        href: '/blog/books',
+      },
+      {
+        text: 'Work',
+        href: '/blog/work',
       },
     ],
   },
