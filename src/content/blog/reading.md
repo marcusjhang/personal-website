@@ -11,8 +11,8 @@ I'm not an avid reader, apart from some biographies in the past.
 
 One thing I hope to change since then is having a "Quality over Quantity" mindset towards reading. I hope to be able to hone in on a few topics which I know are applicable rather than have general knowledge over many topics.
 
-The next thing I hope to do is to conduct one eagle-eye analysis of the book before going into its details. I hope this keeps me interested and gives me a better idea of how different parts of the book are linked.
+The next thing I hope to do is to have an overview of the book before going into its details. I hope this keeps me interested and gives me a better idea of how different parts of the book are linked.
 
-Third thing would be to freely write on the book. I'll keep some post-its and pens next to me. I hope this keeps my mind active when I'm reading. Not sure why I was always scared to just write on a hard copy book.
+Third thing would be to freely write on the book. I'll keep some post-its and pens next to me when reading it. I hope this keeps my mind active. Not sure why I was always scared to just write on a hard copy book.
 
-Last thing would be being patient. There's no rush to completing the books.
+Last thing would be being patient. There's no rush to completing any book.
