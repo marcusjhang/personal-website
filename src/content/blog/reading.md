@@ -1,6 +1,6 @@
 ---
 title: Reading Tech Books
-description: How I hope to go about reading tech Bboks
+description: How I hope to go about reading tech books
 date: 2025-01-29
 ---
 I've recently picked up a couple of technology books to read alongside my school work and internships. Mostly as a way for me to learn about engineering and technology.
