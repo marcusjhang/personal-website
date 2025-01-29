@@ -11,7 +11,7 @@ I do internships to learn things aside from my school curriculum.
 
 ## Arrowster (May'24 to Aug'24)
 - Did this on the NUS Overseas Colleges programme in Vietnam. Fun, eye-opening and gave me a good taste of start-up life.
-- Managed to meet the smartest people from the best Unis around the world 🌍 (Thanh, Kenneth, Arif, Jenny, Hayden. I miss you guys! 🫶), and saw what real hard work looks like.
+- Managed to meet the smartest people from the best universities around the world 🌍 (Thanh, Kenneth, Arif, Jenny, Hayden. I miss you guys! 🫶), and saw what real hard work looks like.
 - Alot of my character, hard-work and tenacity towards work was built through this internship. Also realised how difficult it was to disrupt an industry (and how hard GTM was for a start-up).
 - Did alot of miscellaneous tasks (e.g. Web-Scraping, QA, Data Analysis) which I did not enjoy then, but I appreciate now.
 - My first introduction to Full-Stack Development, realised the joy of creation can be experienced even with a boring CS degree!
