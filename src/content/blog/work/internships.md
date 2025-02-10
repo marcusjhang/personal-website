@@ -30,7 +30,7 @@ I do internships to learn things aside from my school curriculum.
 ---
 
 ## Binance (Dec'24 to May'25)
-- Did this Full-Time remotely alongside my normal school workload. I miss having an office to go to.
+- Doing this Full-Time remotely alongside my normal school workload. I miss having an office to go to.
 - Started to appreciate Frontend Developers so much more. It was much more complex than I imagined.
 - Realised how bad I was at coding after watching the full-time engineers do it. These were real engineers. People I wanted to be.
 - Appreciated the way my manager managed to have such strong grip on a very dispersed team. Saw what real leadership can look like in Tech.
@@ -38,6 +38,13 @@ I do internships to learn things aside from my school curriculum.
 - Realised how bad ChatGPT was at being a real engineer with massive code bases (cursor too!). Learnt the importance of learning to think like an engineer. LLMs should only be used for modular tasks (eg Defining a component in React), the understanding must be done by the engineer.
 - With a lack of an office, keeping myself accountable was very important too. Discipline is key when you aren't meeting your boss on a day-to-day basis.
 - Remote != Easy/Slack ☹️
+
+---
+
+## Check (Feb'25 to May'25)
+- Doing this as as a 5-9 outside my 9-5. I've been having the start-up fever recently.
+- Look up to student founders so much more now. (Jed and Andre, y'all are so cool 🫡)
+- Will be updating!
 
 ---
 
